@@ -1,5 +1,5 @@
 voila
 keras
-tensorflow
+tensorflow-cpu
 numpy
 Pillow
