@@ -3,5 +3,3 @@ keras
 tensorflow-cpu
 numpy
 Pillow
-io
-ipywidgets
